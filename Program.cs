@@ -17,11 +17,7 @@ namespace LajiEngine
             if (opening == "ucci")
             {
                 Console.WriteLine("Laji Engine");
-                Console.WriteLine("中国象棋");
-                Console.WriteLine("垃圾引擎");
-                Console.WriteLine("Author: Wang Wenxi");
-                Console.WriteLine("2017.9");
-                Console.WriteLine("All rights reserved. 233333");
+                Console.WriteLine("All rights reserved.");
                 Console.WriteLine("ucci ok");
                 init = true;
             }
